@@ -1,0 +1,15 @@
+/Users/rainramas/Desktop/Visual studio codes/test for github/test for github/bin/Debug/net7.0/test for github
+/Users/rainramas/Desktop/Visual studio codes/test for github/test for github/bin/Debug/net7.0/test for github.deps.json
+/Users/rainramas/Desktop/Visual studio codes/test for github/test for github/bin/Debug/net7.0/test for github.runtimeconfig.json
+/Users/rainramas/Desktop/Visual studio codes/test for github/test for github/bin/Debug/net7.0/test for github.dll
+/Users/rainramas/Desktop/Visual studio codes/test for github/test for github/bin/Debug/net7.0/test for github.pdb
+/Users/rainramas/Desktop/Visual studio codes/test for github/test for github/obj/Debug/net7.0/test for github.csproj.AssemblyReference.cache
+/Users/rainramas/Desktop/Visual studio codes/test for github/test for github/obj/Debug/net7.0/test for github.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rainramas/Desktop/Visual studio codes/test for github/test for github/obj/Debug/net7.0/test for github.AssemblyInfoInputs.cache
+/Users/rainramas/Desktop/Visual studio codes/test for github/test for github/obj/Debug/net7.0/test for github.AssemblyInfo.cs
+/Users/rainramas/Desktop/Visual studio codes/test for github/test for github/obj/Debug/net7.0/test for github.csproj.CoreCompileInputs.cache
+/Users/rainramas/Desktop/Visual studio codes/test for github/test for github/obj/Debug/net7.0/test for github.dll
+/Users/rainramas/Desktop/Visual studio codes/test for github/test for github/obj/Debug/net7.0/refint/test for github.dll
+/Users/rainramas/Desktop/Visual studio codes/test for github/test for github/obj/Debug/net7.0/test for github.pdb
+/Users/rainramas/Desktop/Visual studio codes/test for github/test for github/obj/Debug/net7.0/test for github.genruntimeconfig.cache
+/Users/rainramas/Desktop/Visual studio codes/test for github/test for github/obj/Debug/net7.0/ref/test for github.dll
